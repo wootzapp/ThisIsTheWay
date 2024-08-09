@@ -1,12 +1,9 @@
 
-
-**Work culture at Wootzapp**:
--   *Ownership* - If you are given a task (which might be as trivial as sending an email), make sure you do it... or you come and tell us that you were not able to do it. **Dont** silently ignore it. You are now a valuable member of one of the most disruptive startups in India. Take responsibility.
-
--   *Hands on & Low Ego* - As founders, we have still swept floors and cleaned generators using mop cloths. Anything from writing testcases to making phone calls is [your job]. Make it happen. We dont believe in caste system around work.
-
--   *Jugaad* - we encourage jugaad. Dont make things more complex than they need to be, just because they sound cool.
--   *Be a [**[Honeybadger]**](https://www.youtube.com/watch?v=NvlalDNxccw)* - Never give up. (P.S. check out videos of honeybadgers on youtube!)
+Communication
+====================================
+<kbd>
+   <img src="https://github.com/user-attachments/assets/5f36bc59-d6f3-4b5e-9272-0db9de7d722c" width=70%/>
+</kbd>
 
 
 **People culture at Wootzapp**:
@@ -14,12 +11,6 @@
 2.  Learning to debate/disagree and align/commit with colleagues is a first order skill. You will write a [Memo](https://slab.com/blog/jeff-bezos-writing-management-strategy/) on a topic and present it (by speaking) to your mentor in person.
 3.  Consistency - we will achieve hard standards of code consistency. Including expectation of IDE setup, git pull requests, etc.
 4.  Strong career achievement - The best companies in the world prefer an [Achievement data](https://www.businessinsider.in/A-head-recruiter-at-Amazon-says-the-best-resumes-are-data-based-and-theres-an-easy-formula-you-can-follow/articleshow/65235908.cms) based criteria for selecting candidates for jobs. Your college just gives you rote skills. You will build your achievements here.
-
-
-
-Communication
-====================================
-![image](https://github.com/user-attachments/assets/5f36bc59-d6f3-4b5e-9272-0db9de7d722c)
 
 
 Managing without Authority
